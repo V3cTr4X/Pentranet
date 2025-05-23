@@ -14,7 +14,7 @@ At the moment its only available in beta mode the network scan and dos_attack
 
 ## Authors
 
-- [@octokatherine](https://www.github.com/v3ctr4x)
+- [@v3ctr4x](https://www.github.com/v3ctr4x)
 
 
 
